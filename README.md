@@ -16,4 +16,7 @@ Jika nama tidak ditemukan, program menampilkan pesan error</pre>
 <pre>4. ubah(nama)
 Mengubah nilai mahasiswa berdasarkan nama.
 Jika nama ditemukan, nilai baru diminta dan data diperbarui.</pre>
-## Penjelasan Flowchart
+## Gambar Tampilan Diterminal 
+![alt text](ss/image1.png)
+## Penjelasan Flowchart Pada Gambar Dibawah Ini :
+![alt text](ss/image.png)
